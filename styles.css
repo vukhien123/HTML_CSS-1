@@ -10,3 +10,13 @@ h4 {
     font-style: italic;
     font-weight: bold;
 }
+
+.khien1, .khien2, .khien3{
+    text-decoration:line-through;
+}
+
+
+.color{
+    text-align: center;
+    color: red;
+}
